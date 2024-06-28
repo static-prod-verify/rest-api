@@ -10,7 +10,7 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=taorodrigueswork_rest-api&metric=sqale_index)](https://sonarcloud.io/dashboard?id=taorodrigueswork_rest-api)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=taorodrigueswork_rest-api&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=taorodrigueswork_rest-api)
  
-# REST API TEMPLATE .NET CORE 7 / ENTITY FRAMEWORK CORE 7
+# REST API TEMPLATE .NET CORE 7 / ENTITY FRAMEWORK CORE 7 - test try 1
 
 This is a template for building REST APIs using .NET 7 and Entity Framework Core 7. It is a monolith using multilayer architecture and uses some common libraries and configurations very used in the .Net community.
 
